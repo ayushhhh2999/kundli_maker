@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ignore environment variables
+.env
